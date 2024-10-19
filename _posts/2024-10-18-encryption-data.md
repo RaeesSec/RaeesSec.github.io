@@ -7,7 +7,7 @@ tags:  [Encryption, Data Security, Cybersecurity Best Practices, Information Sec
 
 # The Role of Encryption in Securing Data
 
-<img src="https://static.endpointprotector.com/blog/2023/10/blog-DLP-Policy-101-From-Basics-to-Best-Practices-1110x365px-en-1.png" alt="Encryption Visual" width="1000" height="800"/>
+<img src="https://blog.purestorage.com/wp-content/uploads/2023/03/Physical-Data-Encryption.png" alt="Encryption Visual" width="1000" height="800"/>
 
 
 Welcome to my blog! In this post, we will explore the critical role that encryption plays in protecting sensitive data in an increasingly digital world. As cyber threats and data breaches continue to rise, understanding the principles and practices of encryption becomes essential for individuals and organizations alike.
@@ -32,6 +32,8 @@ Encryption can be categorized into two primary types: **symmetric encryption** a
 
 ### 1. Symmetric Encryption
 
+<img src="https://cdn-galmn.nitrocdn.com/GSQzEdMFdIGgicqYAambSetFochNVMes/assets/images/optimized/rev-d894ee8/www.goodcore.co.uk/blog/wp-content/uploads/2019/10/symmetric-key-encryption.png" alt="Encryption Visual" width="1000" height="800"/>
+
 In symmetric encryption, the same key is used for both encryption and decryption processes. This method is typically faster and more efficient for large volumes of data but requires robust key management practices to prevent unauthorized access.
 
 **Common Algorithms**:
@@ -39,6 +41,8 @@ In symmetric encryption, the same key is used for both encryption and decryption
 - **DES (Data Encryption Standard)**: Although once a popular choice, DES is now considered insecure due to its vulnerability to brute-force attacks.
 
 ### 2. Asymmetric Encryption
+
+<img src="https://cdn-galmn.nitrocdn.com/GSQzEdMFdIGgicqYAambSetFochNVMes/assets/images/optimized/rev-d894ee8/www.goodcore.co.uk/blog/wp-content/webp-express/webp-images/uploads/2019/10/asymmetric-encryption.png.webp" alt="Encryption Visual" width="1000" height="800"/>
 
 Asymmetric encryption employs a pair of keys: a public key for encryption and a private key for decryption. This approach enhances security, particularly for key exchange processes.
 
