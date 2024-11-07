@@ -7,7 +7,7 @@ tags:  [Encryption, Data Security, Cybersecurity Best Practices, Information Sec
 
 # The Role of Encryption in Securing Data
 
-<img src="https://blog.purestorage.com/wp-content/uploads/2023/03/Physical-Data-Encryption.png" alt="Encryption Visual" width="1000" height="800"/>
+<img src="../../../Downloads/Physical-Data-Encryption.webp" alt="Encryption Visual" width="1000" height="800"/>
 
 
 Welcome to my blog! In this post, we will explore the critical role that encryption plays in protecting sensitive data in an increasingly digital world. As cyber threats and data breaches continue to rise, understanding the principles and practices of encryption becomes essential for individuals and organizations alike.
